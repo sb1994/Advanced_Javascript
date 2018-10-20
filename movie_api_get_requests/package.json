@@ -1,0 +1,15 @@
+{
+  "name": "every",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nodemon": "^1.18.4"
+  }
+}
